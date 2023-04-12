@@ -1,0 +1,2 @@
+# ItzNormally
+ChatGPT Discord Bot
